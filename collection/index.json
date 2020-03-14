@@ -1,9 +1,9 @@
 {
-  "id": "https://iiif-commons.github.io/bl-3d-collection/collection/index.json",
+  "id": "https://bl-3d.netlify.com/collection/index.json",
   "type": "Collection",
   "items": [
     {
-      "id": "https://iiif-commons.github.io/bl-3d-collection/collection/block-gltf/index.json",
+      "id": "https://bl-3d.netlify.com/collection/block/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
@@ -12,16 +12,16 @@
       }
     },
     {
-      "id": "https://iiif-commons.github.io/bl-3d-collection/collection/block-obj/index.json",
+      "id": "https://bl-3d.netlify.com/collection/jane-austen-writing-desk/index.json",
       "type": "Manifest",
       "label": {
         "@none": [
-          "Block Obj"
+          "Jane Austen Desk"
         ]
       }
     },
     {
-      "id": "https://iiif-commons.github.io/bl-3d-collection/collection/quran-case/index.json",
+      "id": "https://bl-3d.netlify.com/collection/quran-case/index.json",
       "type": "Manifest",
       "label": {
         "@none": [

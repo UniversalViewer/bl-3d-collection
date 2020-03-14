@@ -1,22 +1,22 @@
 {
-  "id": "https://iiif-commons.github.io/bl-3d-collection/collection/quran-case/index.json",
+  "id": "https://bl-3d.netlify.com/collection/quran-case/index.json",
   "type": "Manifest",
   "items": [
     {
-      "id": "https://iiif-commons.github.io/bl-3d-collection/collection/quran-case/index.json/canvas/0",
+      "id": "https://bl-3d.netlify.com/collection/quran-case/index.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://iiif-commons.github.io/bl-3d-collection/collection/quran-case/index.json/canvas/0/annotationpage/0",
+          "id": "https://bl-3d.netlify.com/collection/quran-case/index.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://iiif-commons.github.io/bl-3d-collection/collection/quran-case/index.json/canvas/0/annotation/0",
+              "id": "https://bl-3d.netlify.com/collection/quran-case/index.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif-commons.github.io/bl-3d-collection/collection/quran-case/_quran-case/assets/scene.gltf",
-                "type": "PhysicalObject",
+                "id": "https://bl-3d.netlify.com/collection/quran-case/_quran-case/assets/scene.gltf",
+                "type": "Model",
                 "format": "model/gltf+json",
                 "label": {
                   "@none": [
@@ -24,7 +24,7 @@
                   ]
                 }
               },
-              "target": "https://iiif-commons.github.io/bl-3d-collection/collection/quran-case/index.json/canvas/0"
+              "target": "https://bl-3d.netlify.com/collection/quran-case/index.json/canvas/0"
             }
           ]
         }

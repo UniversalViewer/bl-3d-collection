@@ -1,0 +1,46 @@
+{
+  "id": "https://bl-3d.netlify.com/collection/jane-austen-writing-desk/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://bl-3d.netlify.com/collection/jane-austen-writing-desk/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://bl-3d.netlify.com/collection/jane-austen-writing-desk/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://bl-3d.netlify.com/collection/jane-austen-writing-desk/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://bl-3d.netlify.com/collection/jane-austen-writing-desk/jane-austen-writing-desk.glb",
+                "type": "Model",
+                "format": "model/gltf-binary",
+                "label": {
+                  "@none": [
+                    "Jane Austen Desk"
+                  ]
+                }
+              },
+              "target": "https://bl-3d.netlify.com/collection/jane-austen-writing-desk/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "Jane Austen Desk"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "Jane Austen Desk"
+    ]
+  },
+  "attribution": "British Library",
+  "description": "A wooden writing desk used by Jane Austen which was given to her by her father in 1794. This portable ‘writing-box’ opens to provide a slope on which to write. It has various compartments, including a space for an ink pot and a lockable drawer for paper and valuables. When Austen died in 1817, aged 41, the desk was inherited by her sister Cassandra. It was later passed down through her eldest brother’s family. In 1999, Joan Austen-Leigh, Jane Austen’s great-great-great-niece, generously presented it to the British Library."
+}
