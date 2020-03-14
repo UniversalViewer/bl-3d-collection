@@ -1,0 +1,24 @@
+{
+  "name": "bl-3d-collection",
+  "version": "1.0.0",
+  "description": "https://iiif-commons.github.io/bl-3d-collection/",
+  "main": "index.js",
+  "scripts": {
+    "build": "biiif collection -u https://bl-3d.netlify.com/collection"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UniversalViewer/bl-3d-collection.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UniversalViewer/bl-3d-collection/issues"
+  },
+  "homepage": "https://github.com/UniversalViewer/bl-3d-collection#readme",
+  "devDependencies": {
+    "biiif-cli": "^0.1.21"
+  },
+  "dependencies": {}
+}

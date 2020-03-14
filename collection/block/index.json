@@ -1,0 +1,46 @@
+{
+  "id": "https://iiif-commons.github.io/bl-3d-collection/collection/block-gltf/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://iiif-commons.github.io/bl-3d-collection/collection/block-gltf/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://iiif-commons.github.io/bl-3d-collection/collection/block-gltf/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-commons.github.io/bl-3d-collection/collection/block-gltf/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif-commons.github.io/bl-3d-collection/collection/block-gltf/_block/assets/scene.gltf",
+                "type": "PhysicalObject",
+                "format": "model/gltf+json",
+                "label": {
+                  "@none": [
+                    "_block"
+                  ]
+                }
+              },
+              "target": "https://iiif-commons.github.io/bl-3d-collection/collection/block-gltf/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_block"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "Block glTF"
+    ]
+  },
+  "attribution": "British Library",
+  "description": "A ‘block’ is a cast in brass. One of a multitude of blocks used to impress gold decoration in patterns and designs on book covers. Some block designs signify collections (such as the Cottons or Harleys) much like individual coats of arms relate to hereditary lines. Other blocks are purely decorative. The block is positioned and fastened into a heated platen on a blocking machine. After reaching the correct temperature, the operator applies gold leaf or gold foil (powdered gold on a plastic film) onto the surface to be blocked, then aligns the surface under the platen. At the pull of a lever, the surface rises to meet the block and an impression is made. The trick is to get the right temperature and impression pressure. Occasionally the block will be impressed ‘blind’ - when no gold is applied"
+}

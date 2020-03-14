@@ -1,0 +1,38 @@
+{
+  "id": "https://iiif-commons.github.io/bl-3d-collection/collection/index.json",
+  "type": "Collection",
+  "items": [
+    {
+      "id": "https://iiif-commons.github.io/bl-3d-collection/collection/block-gltf/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Block glTF"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif-commons.github.io/bl-3d-collection/collection/block-obj/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Block Obj"
+        ]
+      }
+    },
+    {
+      "id": "https://iiif-commons.github.io/bl-3d-collection/collection/quran-case/index.json",
+      "type": "Manifest",
+      "label": {
+        "@none": [
+          "Qur'an Case"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "collection"
+    ]
+  }
+}

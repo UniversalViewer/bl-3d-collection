@@ -1,0 +1,46 @@
+{
+  "id": "https://iiif-commons.github.io/bl-3d-collection/collection/quran-case/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://iiif-commons.github.io/bl-3d-collection/collection/quran-case/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://iiif-commons.github.io/bl-3d-collection/collection/quran-case/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif-commons.github.io/bl-3d-collection/collection/quran-case/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif-commons.github.io/bl-3d-collection/collection/quran-case/_quran-case/assets/scene.gltf",
+                "type": "PhysicalObject",
+                "format": "model/gltf+json",
+                "label": {
+                  "@none": [
+                    "_quran-case"
+                  ]
+                }
+              },
+              "target": "https://iiif-commons.github.io/bl-3d-collection/collection/quran-case/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_quran-case"
+        ]
+      }
+    }
+  ],
+  "label": {
+    "@none": [
+      "Qur'an Case"
+    ]
+  },
+  "attribution": "British Library",
+  "description": "This West African carrying case is probably from Nigeria, and was made for a richly illuminated copy of the Qur’an (OR 13706A). It is made of leather, fabric and pulp board, and probably dates from the nineteenth century. In West Africa, manuscripts were not usually bound, and cases such as this one were made to protect the loose leaf text block. For more on the British Library’s West African manuscripts, see our blog at http://blogs.bl.uk/asian-and-african/2016/03/the-british-librarys-west-african-manuscripts-collection.html."
+}
