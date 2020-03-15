@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/UniversalViewer/bl-3d-collection#readme",
   "devDependencies": {
-    "biiif-cli": "^0.1.21"
+    "biiif-cli": "^0.1.22"
   },
   "dependencies": {}
 }
