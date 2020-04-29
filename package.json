@@ -4,7 +4,7 @@
   "description": "https://iiif-commons.github.io/bl-3d-collection/",
   "main": "index.js",
   "scripts": {
-    "build": "biiif collection -u https://bl-3d.netlify.com/collection"
+    "build": "biiif collection -u https://bl-3d.netlify.app/collection"
   },
   "repository": {
     "type": "git",
