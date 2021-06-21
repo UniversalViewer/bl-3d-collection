@@ -1,2 +1,4 @@
 /*
   Access-Control-Allow-Origin: *
+  cache-control: public
+	cache-control: max-age=86400
